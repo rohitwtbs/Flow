@@ -1,1 +1,1 @@
-smap
+kafka-python
