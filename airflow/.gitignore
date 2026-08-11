@@ -1,0 +1,11 @@
+# Logs and runtime artifacts
+logs/
+plugins/__pycache__/
+dags/__pycache__/
+*.pyc
+
+# Environment file containing local passwords/secrets
+.env
+
+# Docker data volumes (if mounted locally)
+postgres-db-volume/
